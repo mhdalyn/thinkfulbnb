@@ -65,6 +65,11 @@ header {
   font-size: 72px;
   color: #fff;
 }
+.navbar {
+  margin: 10px;
+  justify-content: right;
+  align-self: center;
+}
 
 header nav ul {
   display: flex;
