@@ -44,10 +44,12 @@ main img {
 .item {
   flex: 1;
   margin: 10px;
+  align-self: center;
 }
 
 .item-double {
   flex: 2;
+  align-self: center;
 }
 
 /* -------  Navigation ------- */
