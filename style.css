@@ -44,7 +44,6 @@ main img {
 .item {
   flex: 1;
   margin: 10px;
-  align-self: center;
 }
 
 .item-double {
